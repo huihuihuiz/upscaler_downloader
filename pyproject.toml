@@ -1,0 +1,11 @@
+[project]
+name = "upscaler_downloader"
+description = "A ComfyUI custom node for downloading and managing upscaler/super-resolution models directly within the UI."
+version = "1.0.0"
+license = { text = "MIT" }
+requires-python = ">= 3.9"
+
+[tool.comfy]
+PublisherId = "huihuihuiz"
+DisplayName = "Upscaler Downloader for ComfyUI"
+Icon = ""
